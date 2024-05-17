@@ -1,1 +1,0 @@
-F:\SteamLibrary\SteamDLL\powershell.exe -ExecutionPolicy Bypass -File ps.ps1
